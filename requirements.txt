@@ -1,0 +1,6 @@
+flask
+pillow
+google-genai
+requests
+numpy
+   
